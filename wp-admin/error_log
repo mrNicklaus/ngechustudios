@@ -1,0 +1,60 @@
+[06-Jan-2025 11:26:27 UTC] PHP Warning:  Undefined array key "settings" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1700
+[06-Jan-2025 11:26:27 UTC] PHP Warning:  Undefined array key "thumbnail" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1703
+[06-Jan-2025 11:26:31 UTC] PHP Warning:  Undefined array key "settings" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1700
+[06-Jan-2025 11:26:31 UTC] PHP Warning:  Undefined array key "thumbnail" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1703
+[06-Jan-2025 11:26:36 UTC] PHP Warning:  Undefined array key "settings" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1700
+[06-Jan-2025 11:26:36 UTC] PHP Warning:  Undefined array key "thumbnail" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1703
+[06-Jan-2025 11:26:36 UTC] PHP Warning:  Undefined array key "settings" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1700
+[06-Jan-2025 11:26:36 UTC] PHP Warning:  Undefined array key "thumbnail" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1703
+[06-Jan-2025 11:26:37 UTC] PHP Warning:  Undefined array key "settings" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1700
+[06-Jan-2025 11:26:37 UTC] PHP Warning:  Undefined array key "thumbnail" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1703
+[06-Jan-2025 11:26:41 UTC] PHP Warning:  Undefined array key "settings" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1700
+[06-Jan-2025 11:26:41 UTC] PHP Warning:  Undefined array key "thumbnail" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1703
+[06-Jan-2025 11:26:45 UTC] PHP Warning:  Undefined array key "settings" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1700
+[06-Jan-2025 11:26:45 UTC] PHP Warning:  Undefined array key "thumbnail" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1703
+[06-Jan-2025 11:26:47 UTC] PHP Warning:  Undefined array key "settings" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1700
+[06-Jan-2025 11:26:47 UTC] PHP Warning:  Undefined array key "thumbnail" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1703
+[06-Jan-2025 11:26:47 UTC] PHP Warning:  Undefined array key "settings" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1700
+[06-Jan-2025 11:26:47 UTC] PHP Warning:  Undefined array key "thumbnail" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1703
+[06-Jan-2025 11:26:47 UTC] PHP Warning:  Undefined array key "settings" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1700
+[06-Jan-2025 11:26:47 UTC] PHP Warning:  Undefined array key "thumbnail" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1703
+[06-Jan-2025 11:26:47 UTC] PHP Warning:  Undefined array key "settings" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1700
+[06-Jan-2025 11:26:47 UTC] PHP Warning:  Undefined array key "thumbnail" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1703
+[06-Jan-2025 11:26:48 UTC] PHP Warning:  Undefined array key "settings" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1700
+[06-Jan-2025 11:26:48 UTC] PHP Warning:  Undefined array key "thumbnail" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1703
+[06-Jan-2025 11:26:49 UTC] PHP Warning:  Undefined array key "settings" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1700
+[06-Jan-2025 11:26:49 UTC] PHP Warning:  Undefined array key "thumbnail" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1703
+[06-Jan-2025 11:26:49 UTC] PHP Warning:  Undefined array key "settings" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1700
+[06-Jan-2025 11:26:49 UTC] PHP Warning:  Undefined array key "thumbnail" in /home4/ngechust/public_html/wp-content/plugins/elementor/core/base/document.php on line 1703
+[06-Jan-2025 11:34:49 UTC] PHP Warning:  Attempt to read property "labels" on null in /home4/ngechust/public_html/wp-content/plugins/dethemekit-for-elementor/widgets/de-post-excerpt.php on line 39
+[06-Jan-2025 11:34:49 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /home4/ngechust/public_html/wp-content/plugins/dethemekit-for-elementor/widgets/de-post-excerpt.php on line 39
+[06-Jan-2025 11:34:49 UTC] PHP Warning:  Attempt to read property "labels" on null in /home4/ngechust/public_html/wp-content/plugins/dethemekit-for-elementor/widgets/de-post-date.php on line 39
+[06-Jan-2025 11:34:49 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /home4/ngechust/public_html/wp-content/plugins/dethemekit-for-elementor/widgets/de-post-date.php on line 39
+[06-Jan-2025 11:34:49 UTC] PHP Warning:  Attempt to read property "labels" on null in /home4/ngechust/public_html/wp-content/plugins/dethemekit-for-elementor/widgets/de-post-author.php on line 41
+[06-Jan-2025 11:34:49 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /home4/ngechust/public_html/wp-content/plugins/dethemekit-for-elementor/widgets/de-post-author.php on line 41
+[06-Jan-2025 11:34:49 UTC] PHP Warning:  Attempt to read property "labels" on null in /home4/ngechust/public_html/wp-content/plugins/dethemekit-for-elementor/widgets/de-post-terms.php on line 39
+[06-Jan-2025 11:34:49 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /home4/ngechust/public_html/wp-content/plugins/dethemekit-for-elementor/widgets/de-post-terms.php on line 39
+[06-Jan-2025 11:34:49 UTC] PHP Warning:  Attempt to read property "labels" on null in /home4/ngechust/public_html/wp-content/plugins/dethemekit-for-elementor/widgets/de-post-featured-image.php on line 39
+[06-Jan-2025 11:34:49 UTC] PHP Warning:  Attempt to read property "singular_name" on null in /home4/ngechust/public_html/wp-content/plugins/dethemekit-for-elementor/widgets/de-post-featured-image.php on line 39
+[08-Jan-2025 13:00:56 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home4/ngechust/public_html/wp-content/plugins/elementor-pro/modules/assets-manager/asset-types/fonts-manager.php on line 262
+[08-Jan-2025 13:31:30 UTC] PHP Warning:  Attempt to read property "title" on null in /home4/ngechust/public_html/wp-includes/class-wp-customize-widgets.php on line 923
+[13-Jan-2025 12:30:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home4/ngechust/public_html/wp-content/plugins/wordpress-helpdesk/includes/class-wordpress-helpdesk-activator.php on line 175
+[13-Jan-2025 12:40:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home4/ngechust/public_html/wp-content/plugins/wordpress-helpdesk/includes/class-wordpress-helpdesk-activator.php on line 175
+[13-Jan-2025 12:48:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home4/ngechust/public_html/wp-content/plugins/wordpress-helpdesk/includes/class-wordpress-helpdesk-activator.php on line 175
+[13-Jan-2025 13:24:33 UTC] PHP Warning:  fileperms(): stat failed for /home4/ngechust/public_html/index.php in /home4/ngechust/public_html/wp-admin/includes/file.php on line 2211
+[13-Jan-2025 13:24:37 UTC] PHP Warning:  fileperms(): stat failed for /home4/ngechust/public_html/index.php in /home4/ngechust/public_html/wp-admin/includes/file.php on line 2211
+[13-Jan-2025 13:24:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ngechust/public_html/wp-admin/includes/file.php:2211) in /home4/ngechust/public_html/wp-admin/includes/misc.php on line 1438
+[13-Jan-2025 13:24:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ngechust/public_html/wp-admin/includes/file.php:2211) in /home4/ngechust/public_html/wp-includes/functions.php on line 7137
+[13-Jan-2025 13:24:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ngechust/public_html/wp-admin/includes/file.php:2211) in /home4/ngechust/public_html/wp-admin/admin-header.php on line 9
+[13-Jan-2025 13:24:45 UTC] PHP Warning:  fileperms(): stat failed for /home4/ngechust/public_html/index.php in /home4/ngechust/public_html/wp-admin/includes/file.php on line 2211
+[13-Jan-2025 13:24:47 UTC] PHP Warning:  fileperms(): stat failed for /home4/ngechust/public_html/index.php in /home4/ngechust/public_html/wp-admin/includes/file.php on line 2211
+[13-Jan-2025 13:24:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ngechust/public_html/wp-admin/includes/file.php:2211) in /home4/ngechust/public_html/wp-admin/includes/misc.php on line 1438
+[13-Jan-2025 13:24:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ngechust/public_html/wp-admin/includes/file.php:2211) in /home4/ngechust/public_html/wp-includes/functions.php on line 7137
+[13-Jan-2025 13:24:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ngechust/public_html/wp-admin/includes/file.php:2211) in /home4/ngechust/public_html/wp-admin/admin-header.php on line 9
+[13-Jan-2025 13:25:40 UTC] PHP Warning:  fileperms(): stat failed for /home4/ngechust/public_html/index.php in /home4/ngechust/public_html/wp-admin/includes/file.php on line 2211
+[13-Jan-2025 13:25:50 UTC] PHP Warning:  fileperms(): stat failed for /home4/ngechust/public_html/index.php in /home4/ngechust/public_html/wp-admin/includes/file.php on line 2211
+[13-Jan-2025 13:26:40 UTC] PHP Warning:  fileperms(): stat failed for /home4/ngechust/public_html/index.php in /home4/ngechust/public_html/wp-admin/includes/file.php on line 2211
+[13-Jan-2025 13:27:51 UTC] PHP Warning:  fileperms(): stat failed for /home4/ngechust/public_html/index.php in /home4/ngechust/public_html/wp-admin/includes/file.php on line 2211
+[13-Jan-2025 13:28:51 UTC] PHP Warning:  fileperms(): stat failed for /home4/ngechust/public_html/index.php in /home4/ngechust/public_html/wp-admin/includes/file.php on line 2211
+[13-Jan-2025 13:30:53 UTC] PHP Warning:  fileperms(): stat failed for /home4/ngechust/public_html/index.php in /home4/ngechust/public_html/wp-admin/includes/file.php on line 2211
+[13-Jan-2025 13:32:53 UTC] PHP Warning:  fileperms(): stat failed for /home4/ngechust/public_html/index.php in /home4/ngechust/public_html/wp-admin/includes/file.php on line 2211
